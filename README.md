@@ -1,5 +1,9 @@
 - Task Tracker - app.
-- React
+
+- simple app that help user to track task.
+
+- React.
+
 
 
 
