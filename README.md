@@ -1,6 +1,8 @@
 Task - Tracker.
  
-- Help user to track tasks ,using date and time + reminder.
+- Help user to track tasks.
+
+- Date and time + reminder.
 
 - React App.
 
