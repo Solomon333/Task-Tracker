@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Task-Tracker.
-
-- React.
-=======
 Task - Tracker.
  
 - Help user to track tasks.
@@ -15,4 +10,3 @@ Task - Tracker.
 
 
 
->>>>>>> 3cb262918d988f40b3ca222b997c12e5e4dc6625
