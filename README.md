@@ -4,7 +4,7 @@ Task - Tracker.
 
 - Date and time + reminder.
 
-- Create React App.
+- Create React App
 
 
 
